@@ -45,6 +45,8 @@ class PowerProblems {
     }
 
     public static void main(String[] args) {
+         System.out.println (isPowerOfFour (16));// True
+        System.out.println (isPowerOfThree (27));//  True
 
         }
     }
